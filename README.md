@@ -14,7 +14,7 @@ Want to support development and server costs? [Click Here](https://www.patreon.c
 
 **Recommended Install:**
 
-You can install this mod using any of the currently supported modding tools like MBF/QuestPatcher. If your facing issues, join our Discord.
+You can install this mod using any of the currently supported modding tools like MBF/QuestPatcher. If you're facing issues, join our Discord.
 
 **Manual Install:**
 
